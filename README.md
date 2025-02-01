@@ -1,5 +1,5 @@
-Hi there 👋
-🔭 I’m currently working on Full Stack Dev.
+Hi there 👋<br>
+🔭 I’m currently working on Full Stack Dev.<br>
 👯 I’m looking to collaborate on the project.
 <!--
 **sashank-karn/sashank-karn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
