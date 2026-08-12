@@ -129,8 +129,16 @@ Alongside development, I am strengthening my foundations in:
 ## 📈 Engineering Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashank-karn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashank-karn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sashank-karn&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashank-karn&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sashank-karn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -165,9 +173,9 @@ I believe strong engineering comes from understanding not only *how* something w
 
 I'm always interested in collaborating on projects involving **IoT, AI/ML, hardware, full-stack development, and emerging technologies**.
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/sashank071/]
-* 📧 **Email:** [sashankkarn17@gmail.com]
-* 🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/sashank-karn)
+* 💼 **LinkedIn:** [linkedin.com/in/sashank071](https://www.linkedin.com/in/sashank071/)
+* 📧 **Email:** [sashankkarn17@gmail.com](mailto:sashankkarn17@gmail.com)
+* 🐙 **GitHub:** [github.com/sashank-karn](https://github.com/sashank-karn)
 
 ---
 
