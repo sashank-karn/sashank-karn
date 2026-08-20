@@ -1,4 +1,4 @@
-<img width="258" height="191" alt="image" src="https://github.com/user-attachments/assets/0c621fc1-87a1-4e6e-9673-1b5c59ba8b96" /># Hi, I'm Sashank Karn 👋
+Hi, I'm Sashank Karn 👋
 
 ### Computer Science & Engineering Student | Full-Stack & IoT Developer | AI/ML Enthusiast
 
